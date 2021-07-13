@@ -1,0 +1,109 @@
+{
+  "configVersion": 1,
+  "timestamp": 1626191190619,
+  "index": "https://github.com/davidcs99/APIs.git/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://github.com/davidcs99/APIs.git/25-es2015.086700b2d2bdcb8c4367.js",
+        "https://github.com/davidcs99/APIs.git/25-es5.086700b2d2bdcb8c4367.js",
+        "https://github.com/davidcs99/APIs.git/469-es2015.9d33ab2ed42a20776be5.js",
+        "https://github.com/davidcs99/APIs.git/469-es5.9d33ab2ed42a20776be5.js",
+        "https://github.com/davidcs99/APIs.git/592-es2015.fd0d1a2d7e0eab565d5e.js",
+        "https://github.com/davidcs99/APIs.git/592-es5.fd0d1a2d7e0eab565d5e.js",
+        "https://github.com/davidcs99/APIs.git/868-es2015.c711aa536041458b9893.js",
+        "https://github.com/davidcs99/APIs.git/868-es5.c711aa536041458b9893.js",
+        "https://github.com/davidcs99/APIs.git/905-es2015.ebf47a46a0c58abeed30.js",
+        "https://github.com/davidcs99/APIs.git/905-es5.ebf47a46a0c58abeed30.js",
+        "https://github.com/davidcs99/APIs.git/favicon.ico",
+        "https://github.com/davidcs99/APIs.git/index.html",
+        "https://github.com/davidcs99/APIs.git/main-es2015.f7725f78fbfc8803e9e2.js",
+        "https://github.com/davidcs99/APIs.git/main-es5.f7725f78fbfc8803e9e2.js",
+        "https://github.com/davidcs99/APIs.git/manifest.webmanifest",
+        "https://github.com/davidcs99/APIs.git/polyfills-es2015.2a5a216673160b58db9a.js",
+        "https://github.com/davidcs99/APIs.git/polyfills-es5.f0d736991c4f56533599.js",
+        "https://github.com/davidcs99/APIs.git/runtime-es2015.72ff5daf5f69e84d37a2.js",
+        "https://github.com/davidcs99/APIs.git/runtime-es5.72ff5daf5f69e84d37a2.js",
+        "https://github.com/davidcs99/APIs.git/scripts.29d971c7d5e612104bfc.js",
+        "https://github.com/davidcs99/APIs.git/styles.88fc05e63f43da22e31a.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://github.com/davidcs99/APIs.git/assets/icons/icon-128x128.png",
+        "https://github.com/davidcs99/APIs.git/assets/icons/icon-144x144.png",
+        "https://github.com/davidcs99/APIs.git/assets/icons/icon-152x152.png",
+        "https://github.com/davidcs99/APIs.git/assets/icons/icon-192x192.png",
+        "https://github.com/davidcs99/APIs.git/assets/icons/icon-384x384.png",
+        "https://github.com/davidcs99/APIs.git/assets/icons/icon-512x512.png",
+        "https://github.com/davidcs99/APIs.git/assets/icons/icon-72x72.png",
+        "https://github.com/davidcs99/APIs.git/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://github.com/davidcs99/APIs.git/25-es2015.086700b2d2bdcb8c4367.js": "acc49d7b500182112f9d152b86a72e48339cecc2",
+    "https://github.com/davidcs99/APIs.git/25-es5.086700b2d2bdcb8c4367.js": "1e5842a0816ae3effd9b6a5b86b281ca3ccafa30",
+    "https://github.com/davidcs99/APIs.git/469-es2015.9d33ab2ed42a20776be5.js": "dbbf2843abf27d568efce461b870309b05ee749b",
+    "https://github.com/davidcs99/APIs.git/469-es5.9d33ab2ed42a20776be5.js": "e68e637d0a0f3718d3bcd69c9d8cfc16209e250c",
+    "https://github.com/davidcs99/APIs.git/592-es2015.fd0d1a2d7e0eab565d5e.js": "ee88b80e2625371fe348bb8c49c90df623aee509",
+    "https://github.com/davidcs99/APIs.git/592-es5.fd0d1a2d7e0eab565d5e.js": "c09732c8af6f88a5fca5289cb7116e2cc884a35e",
+    "https://github.com/davidcs99/APIs.git/868-es2015.c711aa536041458b9893.js": "cf0fda752d9b3bd8bef0621c80df52484fa1bf95",
+    "https://github.com/davidcs99/APIs.git/868-es5.c711aa536041458b9893.js": "35e76d777c8c86021bc6bd656ea45a74e7b47841",
+    "https://github.com/davidcs99/APIs.git/905-es2015.ebf47a46a0c58abeed30.js": "9cb9ab620c58d54f50d8b27e9e81736620dafcec",
+    "https://github.com/davidcs99/APIs.git/905-es5.ebf47a46a0c58abeed30.js": "46e98fbc60d870adda72d2c41ba96e5b6d1a59a3",
+    "https://github.com/davidcs99/APIs.git/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://github.com/davidcs99/APIs.git/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://github.com/davidcs99/APIs.git/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://github.com/davidcs99/APIs.git/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://github.com/davidcs99/APIs.git/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://github.com/davidcs99/APIs.git/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://github.com/davidcs99/APIs.git/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://github.com/davidcs99/APIs.git/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://github.com/davidcs99/APIs.git/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://github.com/davidcs99/APIs.git/index.html": "5b0ab2b1e600bc3e6f109166131ad246fa6c7f50",
+    "https://github.com/davidcs99/APIs.git/main-es2015.f7725f78fbfc8803e9e2.js": "012bb5cb7cdbce536423d5640bc9d4e52cbb48e3",
+    "https://github.com/davidcs99/APIs.git/main-es5.f7725f78fbfc8803e9e2.js": "868a96184d1b9fdb958866d2d944eaa81fdf655a",
+    "https://github.com/davidcs99/APIs.git/manifest.webmanifest": "c8de8d99e5b8bc48ce058775f4d64c1fc70e870b",
+    "https://github.com/davidcs99/APIs.git/polyfills-es2015.2a5a216673160b58db9a.js": "4f949201d3553ea706d855dae06a477cee1f52b2",
+    "https://github.com/davidcs99/APIs.git/polyfills-es5.f0d736991c4f56533599.js": "915f6fe8c6a9a967f81b14d0a2689006c947a9e9",
+    "https://github.com/davidcs99/APIs.git/runtime-es2015.72ff5daf5f69e84d37a2.js": "8435fc154a3ee446ea2330d46fda2e05d1758cdb",
+    "https://github.com/davidcs99/APIs.git/runtime-es5.72ff5daf5f69e84d37a2.js": "fc4ecf44237811890c46b24a71de1afd8bfa553a",
+    "https://github.com/davidcs99/APIs.git/scripts.29d971c7d5e612104bfc.js": "a80aa422c98d4bc006af5df34d4cc64f5a3d26f7",
+    "https://github.com/davidcs99/APIs.git/styles.88fc05e63f43da22e31a.css": "8e5312d413e09c6b2a64b673c404df97e87356af"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
